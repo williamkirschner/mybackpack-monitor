@@ -1,5 +1,5 @@
 # MyBackPack Monitor (1.0)
-For those who lack patience when it comes to knowing your grades. Receive SMS notifications when your gradebook is update. 
+For those who lack patience when it comes to knowing your grades. Receive SMS notifications when your gradebook is updated. 
 
 ## Requirements
 * [BeautifulSoup 4.7.1+](https://pypi.org/project/beautifulsoup4/)
