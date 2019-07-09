@@ -20,3 +20,5 @@ For those who lack patience when it comes to knowing your grades. Receive SMS no
 
 ## Acknowledgments
 Thanks for always inspiring me Rodrigo. I'll miss you next year. My first repository goes out to you [@rodrigo-castellon](https://github.com/rodrigo-castellon/).
+
+*Development will continue when MyBackPack becomes accessible and functional to students this fall*
